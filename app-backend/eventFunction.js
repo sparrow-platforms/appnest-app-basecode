@@ -1,4 +1,4 @@
-const { AppnestFunctions, ResultData } = require('@aravinthan_p/appnest-sdk-utils');
+const { AppnestFunctions, ResultData } = require('@sparrowengg/appnest-app-sdk-utils');
 
 const onSubmissionComplete = async ({ payload }) => {
   console.log('🚀 ~ onSubmissionComplete ~ payload:', payload);
