@@ -1,4 +1,4 @@
-const { AppnestFunctions, ResultData } = require('@aravinthan_p/appnest-sdk-utils');
+const { AppnestFunctions, ResultData } = require('@sparrowengg/appnest-app-sdk-utils');
 
 const function1 = async ({ payload }) => {
   console.log("function1 is invoked");
